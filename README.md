@@ -1,6 +1,5 @@
 # GMT
 # Plotting 2D Koordinat (Easting , Northing) pada GMT 6.0.O
-Script ini dibuat untuk membantu dalam pembuatan Plottingan  Velocity wilayah Lampung, pada saat saya sedang melaksanakan Tugas Akhir
 Sebelum menggunakan script ini perlu dipastikan bahwa file - file koordinat easting northing sudah terdapat dalam 1 folder yang sama dengan file .sh #
 File yang bisa dipanggil dan digunakan dalam script ini haruslah ber-ekstensi .dat #
 Sedikit Penjelasan yang digunakan dalam Script ini adalah sebagai berikut =
