@@ -1,4 +1,16 @@
 # GMT
-Plotting 2D on GMT
-This is script that i used for plotting  UTM 2d coordinat (Easting, Northing)
-Need improve so badly, so dont forget to comment for me 🙈
+# Plotting 2D Koordinat (Easting , Northing) pada GMT 6.0.O
+# Script ini dibuat untuk membantu dalam pembuatan Plottingan  Velocity wilayah Lampung, pada saat saya sedang melaksanakan Tugas Akhir
+# Sebelum menggunakan script ini perlu dipastikan bahwa file - file koordinat easting northing sudah terdapat dalam 1 folder yang sama dengan file .sh #
+# File yang bisa dipanggil dan digunakan dalam script ini haruslah ber-ekstensi .dat #
+# Sedikit Penjelasan yang digunakan dalam Script ini adalah sebagai berikut =
+  gmt begin > memulai script gmt
+  gmset > untuk mengatur tampilan yang kita inginkan
+  grdimage > gradasi warna yang akan digunakan pada Plotinggan kita
+  pscoast > Plotingan Coastline
+  basemap > menentukan peta dasar yang akan kita gunakan
+  psxy > untuk menginput koordinat yang akan kita Plot 
+  text > untuk menambahkan text
+  pslegend > untuk menambakan legenda yang kita ingin tampilkan 
+  psvelo > plottingan Velocity
+
